@@ -10,9 +10,9 @@ description: >-
 
 ## Possible solutions:
 
- If you don't see ads, something on your computer or in your network is blocking them. Make sure that:
+If you don't see ads, something on your computer or in your network is blocking them. Make sure that:
 
- - You don't have any browser add-ons installed that could block ads or modify the content of websites 
+- You don't have any browser add-ons installed that could block ads or modify the content of websites 
 
 - You don't have any ad blocking software installed on your computer \(e.g. AdGuard or antivirus software that also blocks ads\) 
 
@@ -20,5 +20,8 @@ description: >-
 
 
 
- It's hard for us to know what exactly is blocking the ads on your computer or your network, but if you get the Adblock message then something is blocking the ads. [https://support.aternos.org/hc/en-us/articles/360034748092](https://support.aternos.org/hc/en-us/articles/360034748092)
+It's hard for us to know what exactly is blocking the ads on your computer or your network, but if you get the Adblock message then something is blocking the ads. [https://support.aternos.org/hc/en-us/articles/360034748092](https://support.aternos.org/hc/en-us/articles/360034748092)
 
+
+If none of the given solutions in here or the official article work, try the following:
+Contact support@aternos.org or make a thread on https://board.aternos.org/ with the ID on the adblock warning and whether or not you can see ads when continuing.
