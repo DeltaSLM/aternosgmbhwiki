@@ -19,4 +19,5 @@
 ## faq and articles
 
 * [Error codes](faq-and-articles/error-codes.md)
+* [Adblocker](faq-and-articles/adblocker.md)
 
