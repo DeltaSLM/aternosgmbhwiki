@@ -20,3 +20,13 @@ No, it is unlikely the police, FBI, NSA, CIA, or the army will storm into your h
 
 Stop using cracked/illegal launchers and use the official one. If you can not afford it, you should try asking your parents to buy Minecraft for you as a christmas, or birthday present. If this doesn't work and you simply can't afford it, wait till you can.
 
+## Hacking cracked servers
+
+People often come into the discord server or forums and say their servers were hacked. However, these are just as often cracked servers. Cracked servers often get "hacked" through players suddenly gaining OP. **Cracked servers do not actually get "hacked".** Cracked servers also have more security risks, one of these being the possibility that anyone can log in using _**any**_ name, and the playerdata bound to that name would be given to anyone using that specific name, making it really easy to get OP that way. **Always make sure to use login security plugins like AuthMe Reloaded and/or to use the whitelist. \(Reminder that the whitelist may not always work as people can use this same loophole to cheat the whitelist.\)** 
+
+Other servers that are not cracked have barely any chance of getting hacked, as the only form for that would be using hack clients like wurst or aristois which can be countered using anticheat plugins, or simply getting staff.
+
+{% hint style="danger" %}
+We will not ban anyone on the discord or forums that "hack" Aternos servers. Your server is still **your** responsibility, and not ours. 
+{% endhint %}
+
