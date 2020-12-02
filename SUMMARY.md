@@ -16,10 +16,10 @@
 * [exaroton support center](https://support.exaroton.com/)
 * [exaroton discord](https://discord.gg/3tNkzss)
 
-## faq and articles
+## faq and articles <a id="articles"></a>
 
-* [Error codes](faq-and-articles/error-codes.md)
-* [Adblocker](faq-and-articles/adblocker.md)
-* [Lag](faq-and-articles/lag.md)
-* [Cracked](faq-and-articles/cracked.md)
+* [Error codes](articles/error-codes.md)
+* [Adblocker](articles/adblocker.md)
+* [Lag](articles/lag.md)
+* [Cracked](articles/cracked.md)
 
