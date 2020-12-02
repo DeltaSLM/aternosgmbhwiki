@@ -45,5 +45,11 @@ While Aternos tries to provide the best performance possible for free, [exaroton
 * [Aternos branding](https://aternos.gmbh/en/branding)
 * [Aternos status](https://twitter.com/AternosStatus)
 
+## About this wiki
+
+{% hint style="danger" %}
+This wiki was not created by an official employee, nor was it reviewed by them as of yet. This wiki was only made by a moderator of the aternos discord and helper of the aternos forums \(Bluewy\). Any use of "we", "our", or others should not indicate anything said by the Aternos team unless stated otherwise. All this information should be completely and entirely reliable however.
+{% endhint %}
+
 
 
