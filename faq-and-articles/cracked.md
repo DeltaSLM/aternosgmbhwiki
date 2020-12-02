@@ -12,7 +12,7 @@ It's common for people to be using cracked launchers as they can not afford the 
 
 Another common misconception is that launchers such as "tlauncher" are legal:
 
-![Source: https://account.mojang.com/terms?ref=ft](.gitbook/assets/image%20%281%29.png)
+![Source: https://account.mojang.com/terms?ref=ft](../.gitbook/assets/image%20%281%29.png)
 
 As you can see in the above screenshot, it says "Do not redistribute our games or any alterations of our games or game files." This is basically what tlauncher, and so many other non-official launchers are doing without their legal permission, making it illegal. 
 
