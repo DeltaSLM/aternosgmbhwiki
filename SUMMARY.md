@@ -22,3 +22,7 @@
 * [Adblocker](faq-and-articles/adblocker.md)
 * [Lag](faq-and-articles/lag.md)
 
+---
+
+* [Cracked](cracked.md)
+
