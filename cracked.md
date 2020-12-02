@@ -6,7 +6,7 @@ description: >-
 
 # Cracked
 
-If you got issues connecting with your server due to "invalid session", "unable to verify username" or certain other errors, you should check these articles out as this page is not to get help with cracked for: [https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join](https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join)
+If you got issues connecting with your server due to "invalid session", "unable to verify username" or certain other errors, you should check these articles out as this page is not to get help with cracked for: [https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join](https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join) \|\| [https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username](https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username)
 
 It's common for people to be using cracked launchers as they can not afford the actual game. However, this is illegal and not recommended at all. First of all, many people think that simply because of the online-mode option being there, cracked is totally legal and allowed, **this statement is false**. The online-mode option was there so you could play offline, easing gameplay with bad internet. Although this can be used for cracked accounts as this option does not use the mojang authentication servers, it's not what it was for.
 
