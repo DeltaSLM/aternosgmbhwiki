@@ -14,7 +14,7 @@ This error should not occur, but this error always indicates that you are not lo
 
 #### Error 402
 
-This error indicates that you do not have friend access permissions for what you are trying to do within another person's server. You can solve this by asking the owner of the server you are accessing with friend access to give you that permission.
+This error indicates that you do not have share access permissions for what you are trying to do within another person's server. You can solve this by asking the owner of the server you are accessing with share access to give you that permission.
 
 #### Error 403
 
