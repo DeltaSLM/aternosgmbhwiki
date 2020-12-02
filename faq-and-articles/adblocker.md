@@ -18,7 +18,7 @@ description: >-
 
 - There is no network filter installed in your home network
 
+It's hard for us to know what exactly is blocking the ads on your computer or your network, but if you get the Adblock message then something is blocking the ads. [https://support.aternos.org/hc/en-us/articles/360034748092](https://support.aternos.org/hc/en-us/articles/360034748092)
 
-
- It's hard for us to know what exactly is blocking the ads on your computer or your network, but if you get the Adblock message then something is blocking the ads. [https://support.aternos.org/hc/en-us/articles/360034748092](https://support.aternos.org/hc/en-us/articles/360034748092)
+If this does not help, contact support@aternos.org or make a thread on https://board.aternos.org/ and provide the ID you get on the adblocker warning as well as whether you can see ads when continuing.
 
