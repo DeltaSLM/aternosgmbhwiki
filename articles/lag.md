@@ -1,19 +1,19 @@
 ---
 description: >-
-  This article is about lag, a commonly occuring issue which mostly always gets
-  blamed on the server host while this is mainly always never true. Please read
-  through this before pulling conclusions.
+  Este artículo es acerca del lag, un problema que ocurre comúnmente y que en su
+  mayoría se culpa al host del servidor, mientras que esto casi nunca es cierto.
+  Por favor, lee esto antes de sacar conclus
 ---
 
 # Lag
 
-If you are experiencing lag, the first suggestion we make would be to check out the official article created by aternos in their support center \([https://support.aternos.org/hc/en-us/articles/360027350792-Lags](https://support.aternos.org/hc/en-us/articles/360027350792-Lags) \|\| [https://support.exaroton.com/hc/en-us/articles/360010309018-Lags](https://support.exaroton.com/hc/en-us/articles/360010309018-Lags)\).
+Si tienes problemas con el lag, la primera sugerencia que damos sería de revisar este artículo oficial creado por Aternos en su centro de ayuda \([https://support.aternos.org/hc/en-us/articles/360027350792-Lags](https://support.aternos.org/hc/en-us/articles/360027350792-Lags) \|\| [https://support.exaroton.com/hc/en-us/articles/360010309018-Lags](https://support.exaroton.com/hc/en-us/articles/360010309018-Lags)\).
 
-If your server software is Spigot/Bukkit or Vanilla, we recommend you to use the Paper/Bukkit software. This software is better for optimization and performance as it's been designed specifically to optimize your gameplay on servers. IF you intend to switch, we recommend you to make a backup before switching between softwares. If you use Paper/Bukkit or Spigot/Bukkit, you can also follow this article: [https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
+Si el software de tu servidor es Spigot/Bukkit o Vanilla, te recomendamos que uses el software Paper/Bukkit. Este software is mejor para optimización y rendimiento ya que ha sido diseñado específicamente para optimizar la experiencia de juego en los servidores. Si tienes planeado en cambiar de software, te recomendamos hacer una copia de respaldo antes de cambiar a otro software. Si usas Paper/Bukkit o Spigot/Bukkit, puedes seguir esta guía: [https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
 
-If your server software is Fabric or Forge, you can use some mods such as Lithium, Phosphor, Sodium, optifine etc. for better optimization. Some mods have to be installed only on your server, and not the client. And others only on your client and not the server, make sure to check this. 
+Si el software de tu servidor es Fabric o Forge, tu puedes usar mods como Lithium, Phosphor, Sodium, OptiFine, etc. para una mejor rendimiento. Algunos mods tienen que ser instalado solo en tu servidor, y no el cliente. Otros mods solo se instalan en tu cliente y no el servidor.
 
-If your server software is bedrock or is a modpack, there's not much you can do against lag, or to lessen it even a little bit. Modpacks tend to be heavy and can cause much lag, and with the RAM Aternos can provide, you won't always have perfectly running modpacks, and the host can not just simply fix this by "installing", or "buying" more RAM. 
+Si el software de tu servidor es Bedrock o si usas un modpack, no hay mucho que puedas hacer en contra del lag, o al menos reducirlo un poco. Los modpacks tienen a ser demasiados pesados y suelen causar mucho lag, y con el RAM que Aternos provee, no siempre funcionarán los modpacks perfectamente, y el host no puede simplemente solucionarlo "instalando" o "comprando" más RAM.
 
 {% hint style="warning" %}
 Versions 1.13x, 1.14x, 1.15x and 1.16x tend to always be more laggy, as these are unstable and have performance issues, ALWAYS use optimized softwares with these.
