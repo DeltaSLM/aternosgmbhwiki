@@ -18,7 +18,7 @@
 
 ## faq and articles <a id="articles"></a>
 
-* [Códigos de error](articles/error-codes.md)
+* [Códigos de error](articles/error.md)
 * [Adblocker](articles/adblocker.md)
 * [Lag](articles/lag.md)
 * [Craqueado](articles/craqueado.md)
