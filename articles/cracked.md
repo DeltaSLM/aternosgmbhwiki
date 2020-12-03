@@ -1,10 +1,10 @@
 ---
 description: >-
-  Explanation about cracked launchers and why they are illegal, and why hacking
-  cracked servers is not actually hacking.
+  Explicación acerca de los launchers craqueados y el por qué son ilegales, y el
+  por qué hackear los servidores craqueados no es en realidad hackearlos.
 ---
 
-# Cracked
+# Craqueado
 
 If you got issues connecting with your server due to "invalid session", "unable to verify username" or certain other errors, you should check these articles out as this page is not to get help with cracked for: [https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join](https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join) \|\| [https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username](https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username)
 
