@@ -4,7 +4,7 @@ description: >-
   and exaroton. They are displayed here together with solutions or answers.
 ---
 
-# Error codes
+# Códigos de error
 
 ## Website error codes
 
