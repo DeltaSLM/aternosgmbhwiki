@@ -21,5 +21,5 @@
 * [Error codes](articles/error-codes.md)
 * [Adblocker](articles/adblocker.md)
 * [Lag](articles/lag.md)
-* [Craqueado](articles/cracked.md)
+* [Craqueado](articles/craqueado.md)
 
