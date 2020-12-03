@@ -1,7 +1,7 @@
 ---
 description: >-
-  A list of all the error codes that are available within relation to Aternos
-  and exaroton. They are displayed here together with solutions or answers.
+  Una lista de todos los códigos de error que están disponibles en relación con
+  Aternos y exaroton. Se muestran aquí junto a posibles soluciones o respuestas.
 ---
 
 # Códigos de error
