@@ -1,7 +1,8 @@
 ---
 description: >-
   Welcome to the unofficial wiki for the server hosts exaroton and Aternos. Two
-  server hosts created, and maintained by Aternos GmbH.
+  server hosts created, and maintained by Aternos GmbH. Gracias a Alex por hacer
+  las traducciones al español.
 ---
 
 # Aternos GmbH wiki
