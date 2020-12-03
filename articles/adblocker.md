@@ -8,11 +8,9 @@ description: >-
 
 ![](../.gitbook/assets/image.png)
 
-## Possible solutions:
+## Posibles soluciones:
 
- 
-
-Posibles soluciones: Si no ve los anuncios, entonces algo en su computadora o en su network/red los está bloqueando. Asegúrese que:
+ Posibles soluciones: Si no ve los anuncios, entonces algo en su computadora o en su network/red los está bloqueando. Asegúrese que:
 
 - Usted no tiene ningún add-on instalado en su navegador que podría bloquear los anuncios o modificar el contenido de los sitios web.
 
