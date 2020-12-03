@@ -16,8 +16,6 @@ Si el software de tu servidor es Fabric o Forge, tu puedes usar mods como Lithiu
 Si el software de tu servidor es Bedrock o si usas un modpack, no hay mucho que puedas hacer en contra del lag, o al menos reducirlo un poco. Los modpacks tienen a ser demasiados pesados y suelen causar mucho lag, y con el RAM que Aternos provee, no siempre funcionarán los modpacks perfectamente, y el host no puede simplemente solucionarlo "instalando" o "comprando" más RAM.
 
 {% hint style="warning" %}
-Versions 1.13x, 1.14x, 1.15x and 1.16x tend to always be more laggy, as these are unstable and have performance issues, ALWAYS use optimized softwares with these.
+Las versiones 1.13.X, 1.14.X, 1.15.X tienden a tener casi siempre lag, ya que son inestables y tienen problemas con el rendimiento, SIEMPRE usa softwares optimizados para estas versiones.
 {% endhint %}
-
-
 
