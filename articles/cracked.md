@@ -6,27 +6,29 @@ description: >-
 
 # Craqueado
 
-If you got issues connecting with your server due to "invalid session", "unable to verify username" or certain other errors, you should check these articles out as this page is not to get help with cracked for: [https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join](https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join) \|\| [https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username](https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username)
+Si tienes problemas conectandose a servidores debido a errores tales como "Sesión inválida", "No se ha podido verificar tu usuario" o errores parecidos, te recomendamos revisar estos artículos ya que esta página no es para conseguir ayuda con la opción craqueado: [https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join](https://support.aternos.org/hc/en-us/articles/360027235691-Allow-cracked-players-to-join) \|\| [https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username](https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username)[me](https://support.exaroton.com/hc/en-us/articles/360011116177-Invalid-Session-Invalid-Token-Failed-to-verify-username)
 
-It's common for people to be using cracked launchers as they can not afford the actual game. However, this is illegal and not recommended at all. First of all, many people think that simply because of the online-mode option being there, cracked is totally legal and allowed, **this statement is false**. The online-mode option was there so you could play offline, easing gameplay with bad internet. Although this can be used for cracked accounts as this option does not use the mojang authentication servers, it's not what it was for.
+Es muy común para las personas el usar launchers craqueados ya que no pueden conseguir el juego original. Como sea, esto es ilegal y no recomendado. Primero que nada, bastantes personas piensan que solo porque la opción online-mode o también conocido como "craqueado", está disponible esto es totalmente legal y permitido, esto es completamente falso. La opción online-mode está ahí para que puedas jugar en modo offline, facilitando el juego con mal Internet. Aunque esto puede ser usado para cuentas craqueadas ya que esta opción desactiva el Sistema de autentificación de Mojang, esta opción no fue diseñado para eso.
 
-Another common misconception is that launchers such as "tlauncher" are legal:
+#### Summary
 
-![Source: https://account.mojang.com/terms?ref=ft](../.gitbook/assets/image%20%281%29.png)
+Te recomendamos leer todos los términos y condiciones, pero aquí hay un pequeño resumen de algunos puntos más importantes.
 
-As you can see in the above screenshot, it says "Do not redistribute our games or any alterations of our games or game files." This is basically what tlauncher, and so many other non-official launchers are doing without their legal permission, making it illegal. 
+![Recurso: https://account.mojang.com/terms?ref=ft](../.gitbook/assets/image%20%281%29.png)
 
-No, it is unlikely the police, FBI, NSA, CIA, or the army will storm into your house and throw you into jail for a life long time. But that does not make this any less illegal. Our suggestion?
+Como puedes ver en la captura de pantalla de arriba, dice "No redistribuir nuestros juegos o cualquier alteración de nuestros juegos y sus archivos". Esto es basicamente lo que TLauncher, y también otros launchers no oficiales están haciendo sin su permiso legal, hacerlo ilegal.
 
-Stop using cracked/illegal launchers and use the official one. If you can not afford it, you should try asking your parents to buy Minecraft for you as a christmas, or birthday present. If this doesn't work and you simply can't afford it, wait till you can.
+No, es poco probable que la policía, el FBI, la NSA, la CIA o el ejército entren en tu casa y te metan en la cárcel durante mucho tiempo. Pero eso no hace que esto sea menos ilegal. ¿Nuestra sugerencia?
 
-## Hacking cracked servers
+Deja de usar launchers craqueados/ilegales, mejor usa el original. Si no puedes comprarlo, deberías perdirle a tus padres que te compren el juego para navidad o para tu cumpleaños. Si esto no funciona y simplemente no puedes comprarlo, espera hasta que puedas.
 
-People often come into the discord server or forums and say their servers were hacked. However, these are just as often cracked servers. Cracked servers often get "hacked" through players suddenly gaining OP. **Cracked servers do not actually get "hacked".** Cracked servers also have more security risks, one of these being the possibility that anyone can log in using _**any**_ name, and the playerdata bound to that name would be given to anyone using that specific name, making it really easy to get OP that way. **Always make sure to use login security plugins like AuthMe Reloaded and/or to use the whitelist. \(Reminder that the whitelist may not always work as people can use this same loophole to cheat the whitelist.\)** 
+## Servidores craqueados "hackeados"
 
-Other servers that are not cracked have barely any chance of getting hacked, as the only form for that would be using hack clients like wurst or aristois which can be countered using anticheat plugins, or simply getting staff.
+La gente viene muy seguido al servidor de Discord de Aternos o a los foros reclamando y quejandose de que sus servidores fueron hackeados. Como sea, esto normalmente es falso ya que sus servidores son craqueados. Los servidores craqueados son "hackeados" muy seguido a través de jugadores que obtienen OP. Servidores craqueados en realidad no son "hackeados". Además, los servidores craqueados tienen más riesgos de seguridad, uno de estos es la posibilidad de que cualquiera puede entrar usando cualquier nombre, y los datos del jugador vinculados a ese nombre se le darían a cualquiera que use ese nombre específico, lo que hace que sea realmente fácil obtener OP de esa manera. Siempre asegúrate de usar plugins para iniciar sesión como por ejemplo AuthMe Reloaded y/o usar la lista blanca. \(Recordatorio, la lista blanca no siempre funcionará correctamente.\)
 
-{% hint style="danger" %}
-We will not ban anyone on the discord or forums that "hack" Aternos servers. Your server is still **your** responsibility, and not ours. 
+Otros servidores que no son craqueados son pocas las veces que son "hackeados". La única forma de hacerlo sería utilizar clientes de hackeo como wurst o aristois, que pueden contrarrestarse utilizando plugins de anticheat o simplemente consiguiendo un staff.
+
+{% hint style="warning" %}
+No vamos a banear a nadie en el servidor de Discord o en los foros que "hackearon" algún servidor de Aternos. La responsabilidad es tuya al ser tu servidor, no nuestro.
 {% endhint %}
 
