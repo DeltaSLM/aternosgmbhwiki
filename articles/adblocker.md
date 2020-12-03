@@ -1,7 +1,7 @@
 ---
 description: >-
-  "You are using an adblocker" error on Aternos. See this error? Then be sure to
-  read through this page to try and fix it.
+  "Está usando un bloqueador de anuncios" error en Aternos. Ha visto este error?
+  Entonces asegúrese de leer esta página para intentar solucionarlo.
 ---
 
 # Adblocker
@@ -10,19 +10,21 @@ description: >-
 
 ## Possible solutions:
 
- If you don't see ads, something on your computer or in your network is blocking them. Make sure that:
+ 
 
- - You don't have any browser add-ons installed that could block ads or modify the content of websites 
+Posibles soluciones: Si no ve los anuncios, entonces algo en su computadora o en su network/red los está bloqueando. Asegúrese que:
 
-- You don't have any ad blocking software installed on your computer \(e.g. AdGuard or antivirus software that also blocks ads\) 
+- Usted no tiene ningún add-on instalado en su navegador que podría bloquear los anuncios o modificar el contenido de los sitios web.
 
-- There is no network filter installed in your home network
+- Usted no tiene ningún software bloqueador de anuncios instalado en su computadora \(ejemplo, AdGuard o un software de antivirus que también bloquee los anuncios\)
 
-It's hard for us to know what exactly is blocking the ads on your computer or your network, but if you get the Adblock message then something is blocking the ads. Read this article for more information: [https://support.aternos.org/hc/en-us/articles/360034748092](https://support.aternos.org/hc/en-us/articles/360034748092)
+-  No hay ningún filtro de red instalado en su red doméstica.
+
+Es difícil para nosotros saber qué exactamente está bloqueando los anuncios, pero si recibes ese mensaje entonces algo lo está haciendo. Lee este artículo para más información: [https://support.aternos.org/hc/en-us/articles/360034748092](https://support.aternos.org/hc/en-us/articles/360034748092)
 
 
 
 {% hint style="danger" %}
-If this does not help, contact support@aternos.org or make a thread on [https://board.aternos.org/](https://board.aternos.org/) and provide the ID you get on the adblocker warning as well as whether you can see ads when continuing.
+Si esto no funciona, contacta a support@aternos.org o crea un post en [https://board.aternos.org/](https://board.aternos.org/) y provee el ID que obtienes en la advertencia de adblocker, también menciona si puedes ver los anuncios luego de presionar el botón "continuar con el adblocker de todos modos".
 {% endhint %}
 
