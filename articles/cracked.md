@@ -27,6 +27,6 @@ People often come into the discord server or forums and say their servers were h
 Other servers that are not cracked have barely any chance of getting hacked, as the only form for that would be using hack clients like wurst or aristois which can be countered using anticheat plugins, or simply getting staff.
 
 {% hint style="danger" %}
-We will not ban anyone on the discord or forums that "hack" Aternos servers. Your server is still **your** responsibility, and not ours. 
+You are in control of your own server, and we do not ban or limit players on your server in any way. To prohibit unwanted players from joining, enable the whitelist in the options, and add allowed players to the whitelist on the Players page. If you have activated cracked in the options, you should install an authentication plugin like Authme or LoginSecurity.
 {% endhint %}
 
