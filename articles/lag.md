@@ -7,7 +7,7 @@ description: >-
 
 # Lag
 
-If you are experiencing lag, the first suggestion we make would be to check out the official article created by aternos in their support center \([https://support.aternos.org/hc/en-us/articles/360027350792-Lags](https://support.aternos.org/hc/en-us/articles/360027350792-Lags) \|\| [https://support.exaroton.com/hc/en-us/articles/360010309018-Lags](https://support.exaroton.com/hc/en-us/articles/360010309018-Lags)\).
+If you are experiencing lag, the first suggestion we make would be to check out the official article created by aternos in their support center \([https://support.aternos.org/hc/en-us/articles/360027350792-Lags](https://support.aternos.org/hc/en-us/articles/360027350792-Lags) \|\| [https://support.exaroton.com/hc/en-us/articles/360010309018-Lags](https://support.exaroton.com/hc/en-us/articles/360019857018-Lags)\).
 
 If your server software is Spigot/Bukkit or Vanilla, we recommend you to use the Paper/Bukkit software. This software is better for optimization and performance as it's been designed specifically to optimize your gameplay on servers. IF you intend to switch, we recommend you to make a backup before switching between softwares. If you use Paper/Bukkit or Spigot/Bukkit, you can also follow this article: [https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
 
